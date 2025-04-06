@@ -1,8 +1,4 @@
-# Xolve_Solutions_Challenge
-
-TeachAssist Project for Google Developer Groups Solutions Challenge
-
-# 🌍 Solutions Challenge
+# 🌍 Xolve_Solutions_Challenge
 
 This project is built as part of the **Google Developer Student Clubs (GDSC) Solutions Challenge** to create real-world tech solutions aligned with the **UN Sustainable Development Goals (SDGs)**.
 
@@ -17,7 +13,7 @@ This project is built as part of the **Google Developer Student Clubs (GDSC) Sol
 - **TypeScript** – Strongly-typed JavaScript
 - **Tailwind CSS** – Utility-first CSS framework
 - **Supabase** – Backend as a Service (used for database and user authentication)
-- **Gemma API (Google Vertex AI)** – Used for intelligent features like AI-driven recommendations, chat, etc.
+- **Gemma API (Google Vertex AI)** – Used for intelligent features like AI-driven recommendations, Presentation, Quiz, Revision Material, Stress Management Analysis, etc.
 - **Google IDX** – Cloud-based development environment where this project is developed
 - **ESLint** – For linting and maintaining code quality
 - **PostCSS** – For processing CSS

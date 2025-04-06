@@ -7,8 +7,7 @@ TeachAssist Project for Google Developer Groups Solutions Challenge
 This project is built as part of the **Google Developer Student Clubs (GDSC) Solutions Challenge** to create real-world tech solutions aligned with the **UN Sustainable Development Goals (SDGs)**.
 
 > 📌 **Project Goal:**  
-> _[Brief one-liner about your project purpose — customize this line]_  
-> A web application designed to [briefly explain the problem it solves] and contribute to [relevant SDG like “Quality Education”, “Good Health and Well-being”, etc.].
+> To build TeachAssist, an AI-powered web-based assistant that empowers secondary school teachers (Grades 8–12) by simplifying academic and administrative tasks, optimizing schedules and resources, and supporting their professional growth — ultimately addressing teacher shortages and improving the quality of education, especially in underserved regions like rural India.
 
 ---
 
@@ -118,6 +117,3 @@ VITE_GEMMA_API_KEY=your-gemma-api-key
 This project is open source under the [MIT License](LICENSE).
 
 ---
-
-
-Would you like to auto-generate the `.env` template file or scaffold example components like the Supabase Auth flow or Vertex AI usage as well?

@@ -1,15 +1,7 @@
 # Xolve_Solutions_Challenge
+
 TeachAssist Project for Google Developer Groups Solutions Challenge
 
-Perfect — here's an updated version of the `README.md` including:
-
-- Supabase for database and authentication  
-- Developed on Google IDX  
-- Using Gemma API from Google Vertex AI  
-
----
-
-```markdown
 # 🌍 Solutions Challenge
 
 This project is built as part of the **Google Developer Student Clubs (GDSC) Solutions Challenge** to create real-world tech solutions aligned with the **UN Sustainable Development Goals (SDGs)**.
@@ -127,12 +119,5 @@ This project is open source under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Feel free to open issues or submit pull requests.
-
-```
-
----
 
 Would you like to auto-generate the `.env` template file or scaffold example components like the Supabase Auth flow or Vertex AI usage as well?

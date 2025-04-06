@@ -51,6 +51,7 @@
     "zustand": "^4.5.1"
   },
   "devDependencies": {
+    "rollup": "^3.29.4",
     "@eslint/js": "^8.56.0",
     "@types/node": "^20.11.24",
     "@types/react": "^18.2.61",

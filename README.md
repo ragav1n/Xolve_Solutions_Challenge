@@ -1,22 +1,9 @@
-# Xolve_Solutions_Challenge
-TeachAssist Project for Google Developer Groups Solutions Challenge
-
-Perfect — here's an updated version of the `README.md` including:
-
-- Supabase for database and authentication  
-- Developed on Google IDX  
-- Using Gemma API from Google Vertex AI  
-
----
-
-```markdown
-# 🌍 Solutions Challenge
+# 🌍 Xolve_Solutions_Challenge
 
 This project is built as part of the **Google Developer Student Clubs (GDSC) Solutions Challenge** to create real-world tech solutions aligned with the **UN Sustainable Development Goals (SDGs)**.
 
 > 📌 **Project Goal:**  
-> _[Brief one-liner about your project purpose — customize this line]_  
-> A web application designed to [briefly explain the problem it solves] and contribute to [relevant SDG like “Quality Education”, “Good Health and Well-being”, etc.].
+> To build TeachAssist, an AI-powered web-based assistant that empowers secondary school teachers (Grades 8–12) by simplifying academic and administrative tasks, optimizing schedules and resources, and supporting their professional growth — ultimately addressing teacher shortages and improving the quality of education, especially in underserved regions like rural India.
 
 ---
 
@@ -26,7 +13,7 @@ This project is built as part of the **Google Developer Student Clubs (GDSC) Sol
 - **TypeScript** – Strongly-typed JavaScript
 - **Tailwind CSS** – Utility-first CSS framework
 - **Supabase** – Backend as a Service (used for database and user authentication)
-- **Gemma API (Google Vertex AI)** – Used for intelligent features like AI-driven recommendations, chat, etc.
+- **Gemma API (Google Vertex AI)** – Used for intelligent features like AI-driven recommendations, Presentation, Quiz, Revision Material, Stress Management Analysis, etc.
 - **Google IDX** – Cloud-based development environment where this project is developed
 - **ESLint** – For linting and maintaining code quality
 - **PostCSS** – For processing CSS
@@ -126,13 +113,3 @@ VITE_GEMMA_API_KEY=your-gemma-api-key
 This project is open source under the [MIT License](LICENSE).
 
 ---
-
-## 🤝 Contributing
-
-We welcome contributions! Feel free to open issues or submit pull requests.
-
-```
-
----
-
-Would you like to auto-generate the `.env` template file or scaffold example components like the Supabase Auth flow or Vertex AI usage as well?
